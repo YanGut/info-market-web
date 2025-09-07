@@ -1,0 +1,34 @@
+
+.title {
+  font-size: 1.875rem; /* text-3xl */
+  line-height: 2.25rem;
+  font-weight: 700; /* font-bold */
+  margin-bottom: 1rem; /* mb-4 */
+}
+
+.chartContainer {
+  height: 24rem; /* h-96 */
+  margin-bottom: 2rem; /* mb-8 */
+}
+
+.historyTitle {
+  font-size: 1.5rem; /* text-2xl */
+  line-height: 2rem;
+  font-weight: 600; /* font-semibold */
+  margin-bottom: 0.5rem; /* mb-2 */
+}
+
+.priceHistoryList {
+  /* ul styles */
+}
+
+.priceHistoryItem {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem; /* p-2 */
+  border-bottom: 1px solid #e5e7eb; /* border-b */
+}
+
+.price {
+  font-weight: 600; /* font-semibold */
+}
